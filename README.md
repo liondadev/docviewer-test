@@ -1,3 +1,5 @@
+![Header Image](https://i.imgur.com/3fc2kam.png)
+
 # HTML + Google Docs Document Viewer
 A simple document viewer using the Google Docs Document Viewer
 
